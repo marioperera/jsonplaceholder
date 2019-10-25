@@ -1,8 +1,8 @@
 {
-    "status": "ok",
-    "code": "ok",
     "value": {
-        "name1": "wooooo",
-        "output5": "awoooo"
-    }
+        "name1": "wooooo /test",
+        "output5": "awoooo /test"
+    },
+    "code": null,
+    "status": null
 }
