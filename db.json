@@ -1,7 +1,8 @@
 {
-  status:"ok",
-  code:"ok",
-  value:{
-  "name1":"wooooo",
-  "output5":"awoooo"}
+    "status": "ok",
+    "code": "ok",
+    "value": {
+        "name1": "wooooo",
+        "output5": "awoooo"
+    }
 }
